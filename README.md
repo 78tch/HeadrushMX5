@@ -9,10 +9,10 @@ FS2 と FS3 を押したままで電源をONする。
   
 ## モード
 
-|No|モード名|切り替え|画面|
-|--|--|--|--|
-|1|Stompモード|FS1||
-|2|Rigモード|FS2||
-|3|Hybridモード|FS3||
-|4|Setlistモード|FS2Hold||
-|5|HANDS-FREEモード|FS1Hold||
+|No|モード名|切り替え|用途|画面|
+|--|--|--|--|--|
+|1|Stompモード|FS1|||
+|2|Rigモード|FS2|||
+|3|Hybridモード|FS3|||
+|4|Setlistモード|FS2Hold|||
+|5|HANDS-FREEモード|FS1Hold|||
