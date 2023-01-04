@@ -17,3 +17,16 @@ FS2 と FS3 を押したままで電源をONする。
 |4|FS1Hold|HANDS-FREEモード|FSとPEDALで操作||
 |5|FS2Hold|Setlistモード|1で選択、2で↑、3で↓のSetlist移動、1HoldでAll Rigs||
 |6|FS3Hold|Tuner/Tempoモード|1でミュート解除、2でテンポ、3で終了||
+  
+## Global Settings
+
+## ルーパー
+
+## ファームウェアアップデート
+1. PCとUSB接続後、MX5の電源ON
+2. MX5の画面右上の「…」、「Global Settings」
+3. 「…」、「Firmware Update」、「OK」
+4. PCで「HeadRush Updater」起動、「Update HeadRush」
+5. 「Done」、閉じると、MX5が再起動
+6. 「…」、「Global Settings」でバージョン確認
+
