@@ -1,7 +1,5 @@
 # HeadrushMX5
 # MODELS
-[MODELS 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Models.md)
-  
 ## AMPLIFIER (52)
 |No.|Name|based on|Visuals|
 |---|---|---|---|
