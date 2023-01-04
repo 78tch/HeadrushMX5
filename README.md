@@ -37,3 +37,8 @@ FS2 と FS3 を押したままで電源をONする。
 - 「…」：Global Settingsへ
 - 「・・・・」：シグナルパスオプション
 - 「TAIL」：スピルオーバー
+
+## 用語
+- Rig：
+- Setlist：
+- Scene：
