@@ -11,8 +11,8 @@ FS2 と FS3 を押したままで電源をONする。
 
 |No|モード名|切り替え|用途|画面|
 |--|--|--|--|--|
-|1|Stompモード|FS1|FSでMODELをON/OFF、1と2の↓、2と3の↑でRig移動||
-|2|Rigモード|FS2|FSでRigを呼び出す、1と2の↓、2と3の↑でバンク移動||
-|3|Hybridモード|FS3|1でMODELをON/OFFやシーンを切り替え、2で↑、3で↓のRig移動||
+|1|Stompモード|FS1|各FSでMODELをON/OFF、1と2で↓、2と3で↑のRig移動||
+|2|Rigモード|FS2|各FSでRigを呼び出す、1と2で↓、2と3で↑のバンク移動||
+|3|Hybridモード|FS3|FS1でMODELをON/OFFやシーンを切り替え、2で↑、3で↓のRig移動||
 |4|Setlistモード|FS2Hold|1で選択、2で↑、3で↓のSetlist移動、1HoldでAll Rigs||
 |5|HANDS-FREEモード|FS1Hold|FSとPEDALで操作||
