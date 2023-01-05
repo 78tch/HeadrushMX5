@@ -6,7 +6,11 @@
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)
 
 ## Setlists
-[Setlists 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Setlists.md)
+[Setlists 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Setlists.md)  
+MX5は、「プリセットバンク、ユーザーバンク」という２系統ではなく、容量いっぱいまでひたすらRig（プリセット）が保存できる。  
+プリセットのRigは270個あるが、ユーザーが作ったRigは、既存を上書きするか、最後尾に追加する。  
+切り替えて使いたいRigをグループ化して、好みの順に並べた「セットリスト」が作れる。  
+MEMO：）STOMPモードで使いながらRigも切り替えたい、となれば、セットリストよりも、ALL Rigs において、切り替えて使いたいRigを並べて保存しておいたほうがよいかもしれない。  
 
 
 ## 初期化方法
