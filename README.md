@@ -1,9 +1,9 @@
 # HeadrushMX5
-MX5をPCに接続すると、ディスクのなかに５つのフォルダがある。  
-「MODELS」「Rigs」「Setlists」「IR」「Looper」  
-それぞれのなかに、設定ファイルなどが入っている。  
+MX5をPCに接続すると、ディスクのなかに５つのフォルダと１つのファイルがある。  
+「Blocks」「Rigs」「Setlists」「ImpulseResponses」「Loops」「LockScreenLogo.png」（800x400）  
+それぞれのフォルダのなかに、設定ファイルなどが入っている。  
 
-## MODELS
+## MODELS(Blocks）
 [MODELS 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Models.md)  
   
 ## Rigs
