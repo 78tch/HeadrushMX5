@@ -8,6 +8,18 @@
 ## Setlists
 [Setlists 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Setlists.md)  
   
+## IR
+WAVフォーマットのIRファイルに対応。  
+最大192kHz、32bit、2,048サンプルまで。  
+IRファイルは一般にデータサイズが小さいので、数千個でも保存できる。
+- Preset:IR、設定、色
+- Folder:IRファイルが入っているフォルダ。
+- IR File:
+- Gain:
+- HiCut:
+- LoCut:
+- Mix:
+  
 ## プリセット
 MX5のRig（プリセット）は、「プリセットバンク、ユーザーバンク」という２系統ではなく、区別なく１系統で並ぶ。  
 ディスク容量いっぱいまでひたすら保存できる。  
