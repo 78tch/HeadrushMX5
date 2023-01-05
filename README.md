@@ -5,6 +5,9 @@
 ## Rigs
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)
 
+## Setlist
+
+
 ## 初期化方法
 Factroy Reset 方法
 FS2 と FS3 を押したままで電源をONする。
