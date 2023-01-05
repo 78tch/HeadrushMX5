@@ -5,7 +5,11 @@ MX5をPCに接続すると、ディスクのなかに５つのフォルダと１
 
 ## MODELS(Blocks）
 [MODELS 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Models.md)  
-  
+「Blocks」フォルダのなかに入っている。
+「AMP」サブフォルダのなかにアンプのMODELSが入っている。  
+「CAB」サブフォルダのなかにキャビネットのMODELSが入っている。  
+その他のMODELSは、モデル名のサブフォルダが入っている。
+
 ## Rigs
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)  
   
