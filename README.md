@@ -20,8 +20,8 @@ IRファイルは一般にデータサイズが小さいので、数千個でも
 - Folder:IRファイルが入っているフォルダ。
 - IR File:
 - Gain:
-- HiCut:
-- LoCut:
+- HiCut:16～18kHz以上をカット。
+- LoCut:80～100Hz以下をカット。
 - Mix:
   
 ## プリセット
