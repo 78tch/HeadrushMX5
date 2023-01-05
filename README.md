@@ -8,7 +8,8 @@ MX5をPCに接続すると、ディスクのなかに５つのフォルダと１
 「Blocks」フォルダのなかに入っている。
 「AMP」サブフォルダのなかにアンプのMODELSが入っている。  
 「CAB」サブフォルダのなかにキャビネットのMODELSが入っている。  
-その他のMODELSは、モデル名のサブフォルダが入っている。
+その他のMODELSは、モデル名のサブフォルダが入っている。  
+（マイクはどういう形で入っているか不明）
 
 ## Rigs
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)  
