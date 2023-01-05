@@ -5,7 +5,8 @@
 ## Rigs
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)
 
-## Setlist
+## Setlists
+[Setlists 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Setlists.md)
 
 
 ## 初期化方法
