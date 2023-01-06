@@ -66,7 +66,7 @@ Rigを開いている時に、MODELS表示ではなく、LockScreenLogo表示に
 ### 3-1. モード
 演奏時のモードには「Stomp」「Rig」「Hybrid」の3つある。  
 違いはFSの働き。（Hold時の働きは変わらない。）  
-シャットダウン時のモードが記憶されており、そのモードで起動する。  
+シャットダウン時のモードが記憶され、次回起動時にもそのモードで起動する。  
 |No|Mode|FS1|FS2|FS3|FS1Hold|FS2Hold|FS3Hold|FS1FS2|FS2FS3|
 |--|--|--|--|--|--|--|--|--|--|
 |1|Stomp|On/Off|On/Off|On/Off|切替画面|Looper|Tuner|↑|↓|  
