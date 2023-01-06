@@ -63,7 +63,7 @@ Rigを開いている時に、MODELS表示ではなく、LockScreenLogo表示に
 800x400に調節して表示される。  
 ## 3. 画面の種類
 ### 3-1. モード
-演奏時のモードは「Stomp」「Rig」「Hybrid」の3つある。  
+演奏時のモードには「Stomp」「Rig」「Hybrid」の3つある。  
 違いはFSの働き。（Hold時の働きは変わらない。）  
 シャットダウン時のモードが記憶されており、そのモードで起動する。  
 |No|Mode|FS1|FS2|FS3|FS1Hold|FS2Hold|FS3Hold|
@@ -80,24 +80,23 @@ Rigを開いている時に、MODELS表示ではなく、LockScreenLogo表示に
 |1|FS1|Stompモード|各FSでMODELをON/OFF、1と2で↓、2と3で↑のRig移動||
 |2|FS2|Rigモード|各FSでRigを呼び出す、1と2で↓、2と3で↑のバンク移動||
 |3|FS3|Hybridモード|FS1でMODELをON/OFFやシーンを切り替え、2で↑、3で↓のRig移動||
-|4|FS1Hold|HANDS-FREEモード|FSとPEDALで操作||
-|5|FS2Hold|Setlistモード|1で選択、2で↑、3で↓のSetlist移動、1HoldでAll Rigs||
-|6|FS3Hold|(UN)LOCK|ロック画面になって、パネルでエディットできなくなる。ロックアイコンをタップで解除。|
+|4|FS1Hold|HANDS-FREEモード|FSとPEDALでRigの設定変更||
+|5|FS2Hold|Setlistモード|タッチパネルを使わずFSでセットリストを切り替える。1で選択、2で↑、3で↓のSetlist移動、1HoldでAll Rigs||
+|6|FS3Hold|(UN)LOCK|MODELS画面がLOGO画面になり、タッチパネルでエディットできなくなる。ロックアイコンをタップで解除。|
   
-## シーン
+## 4. 設定
+### 4-1. シーン
 STOMPモードなどで、FSを押したときの動作について、標準の「一つのモデルをON/OFF」ではなく、「複数のモデルの状態をいっぺんに切り替える」ように変更するもの。  
 したがって、各Rigの、ハードウェアセッティングで、３つのFSそれぞれに対して設定できるが、FS2とFS3にシーンを設定しても、STOMPモードの時しか使えず、Hybridモードの時には自ずとFS1しか使えない。  
   
-## 初期化方法
+### 4-2. 初期化方法
 Factroy Reset 方法  
 FS2 と FS3 を押したままで電源をONする。  
 画面に REVERTING... と出るまで押し続ける。  
   
-## Global Settings
-  
-## ルーパー
+### 4-3. Global Settings
 
-## ファームウェアアップデート
+### 4-4. ファームウェアアップデート
 1. PCとUSB接続後、MX5の電源ON
 2. MX5の画面右上の「…」、「Global Settings」
 3. 「…」、「Firmware Update」、「OK」
@@ -105,7 +104,7 @@ FS2 と FS3 を押したままで電源をONする。
 5. 「Done」、閉じると、MX5が再起動
 6. 「…」、「Global Settings」でバージョン確認
 
-## 画面
+### 4-5. 画面
 - Setlist：MX5の画面左上のハンバーガーリストをタップ
 - リグのリスト：リグ名をタップ
 - SAVE：リグの変更を保存
@@ -113,7 +112,7 @@ FS2 と FS3 を押したままで電源をONする。
 - 「・・・・」：シグナルパスオプション
 - 「TAIL」：スピルオーバー
 
-## 用語
+### 4-6. 用語
 - Rig：
 - Setlist：
 - Scene：
