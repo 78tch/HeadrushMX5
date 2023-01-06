@@ -89,7 +89,7 @@
 |09|DYN 20|Electro-Voice® RE20|<img src="images/DYN-20-On-Axis.png" alt="image">|
 |10|DYN 12|AKG® D112|<img src="images/DYN-12-On-Axis.png" alt="image">|
 
-## Distorion (16)
+## Distortion (16)
 |No.|Name|based on|Visuals|
 |---|---|---|---|
 |01|WHITE BOOST|Xotic® RC Booster|<img src="images/WHITE-BOOST.png" alt="image">|
