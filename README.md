@@ -61,14 +61,19 @@ IRファイルの保存場所は、ディスクのなかの「ImpulseResponses�
 Rigを開いている時に、MODELS表示ではなく、LockScreenLogo表示にできる。  
 その時にモニターに表示される画像がこれ。  
 800x400に調節して表示される。  
-## 3. 画面遷移（モードなど）
+## 3. 画面の種類
+### 3-1. モード
+演奏時のモードは「Stomp」「Rig」「Hybrid」の3つある。  
+違いはFSの働き。（Hold時の働きは変わらない。）  
 起動時は、シャットダウン時のモードに戻る。  
-どのモードの時も、  
-FS1Holdで「モード切替画面」  
-FS2HoldでLooper  
-FS3HoldでTuner  
+|No|Mode|FS1|FS2|FS3|FS1Hold|FS2Hold|FS3Hold|
+|--|--|--|--|--|--|--|--|
+|1|Stomp|On/Off|On/Off|On/Off|切替画面|Looper|Tuner|  
+|2|Rig|Rig1|Rig2|Rig3|切替画面|Looper|Tuner|  
+|3|Hybrid|On/Off|↑|↓|切替画面|Looper|Tuner|  
   
-### 3-1. 「モード切替画面」における遷移  
+  
+### 3-1. 「モード切替画面」における画面遷移  
 |No|切り替え|モード名|用途|画面|
 |--|--|--|--|--|
 |1|FS1|Stompモード|各FSでMODELをON/OFF、1と2で↓、2と3で↑のRig移動||
