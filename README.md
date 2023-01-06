@@ -1,8 +1,23 @@
 # HeadrushMX5
+## 基本的な使い方
+### セットリストを選択
+まず、タッチパネルの左上のハンバーガーリストで、「セットリスト」を選択する。  
+これにより、「Rig移動」の対象が、セットリストに入れたRigだけに絞られる。  
+標準ではセットリストが「ALL Rigs」（270個）になっているため、1周するのに270回のRig移動をしなければならないが、例えば10個のRigのセットリストを選択しておけば、10回のRig移動で1周する。  
+すなわち、セットリストとは、「ALL Rigs」のサブセットである。  
+### FS2、FS3もON/OFFとして使うならSTOMPモードが必須
+STOMPモードでは、3つのフットスイッチFSでMODELのON/OFFができる。  
+しかし、他のモード（Rigモード、Hybridモード）では、FS2、FS3にはRig移動が割り当てられるため、MODELSのON/OFFとしては使えなくなる。  
+したがって、演奏時には、STOMPモードでしたほうが、、MODELSのON/OFF状態を切り替えやすい。  
+### 切り替えが1回（2種類）なら、シーンを使う
+1つのRigにおいて、切り替えがVerse -> Sole -> Verse のように、2種類を行き来するだけであれば、FS1に、シーンを割り当てるとよい。  
+FSは、標準では、1つのMODELをON/OFFするようになっているが、複数のMODELSをまとめてON/OFFするようにもできる。  
+これを「シーン」という。  
+  
+## PCと接続
 MX5をPCに接続すると、ディスクのなかに５つのフォルダと１つのファイルがある。  
 「Blocks」「Rigs」「Setlists」「ImpulseResponses」「Loops」「LockScreenLogo.png」（800x400）  
 それぞれのフォルダのなかに、設定ファイルなどが入っている。  
-
 ## MODELS(Blocks）
 [MODELS 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Models.md)  
 「Blocks」フォルダのなかに入っている。  
@@ -10,7 +25,6 @@ MX5をPCに接続すると、ディスクのなかに５つのフォルダと１
 「CAB」サブフォルダのなかにキャビネットのMODELSが入っている。  
 その他のMODELSは、モデル名のサブフォルダが入っている。  
 （マイクはどういう形で入っているか不明）  
-
 ## Rigs
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)  
 MX5のRigは、いわゆるプリセットのこと。  
