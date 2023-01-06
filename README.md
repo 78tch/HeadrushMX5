@@ -18,26 +18,29 @@ FSは、標準では、1つのMODELをON/OFFするようになっているが、
 MX5をPCに接続すると、ディスクのなかに５つのフォルダと１つのファイルがある。  
 「Blocks」「Rigs」「Setlists」「ImpulseResponses」「Loops」「LockScreenLogo.png」（800x400）  
 それぞれのフォルダのなかに、設定ファイルなどが入っている。  
-### 2-1. Blocks（MODELS）
+### 2-1. Blocksフォルダ（MODELS）
 [MODELS 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Models.md)  
 「MODELS」の実態としてのファイルは、「Blocks」フォルダのなかに入っている。  
 アンプは、さらに「AMP」サブフォルダのなかに入っている。  
 キャビネットは、さらに「CAB」サブフォルダのなかに入っている。  
 その他のMODELSは、「Blocks」フォルダ直下に入っている。  
 （マイクはどういう形で入っているか不明）  
-### 2-2. Rigs
+### 2-2. Rigsフォルダ
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)  
 MX5のRigは、いわゆるプリセットのこと。  
 「プリセットバンク、ユーザーバンク」というような区別はない。  
 プリセットのRigは270個あるが、ユーザーが作ったRigは、最後尾に271個目以降として追加される。  
 ディスク容量いっぱいまでひたすら保存できる模様。  
-### 2-3. Setlists
+### 2-3. Setlistsフォルダ
 [Setlists 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Setlists.md)  
-「セットリスト」とは、いくつかのRigをグループ化して、好みの順に並べたもの。  
-画面左肩で、選択する。  
-標準では、「ALL RIGS」（270個全部）になっているが、セットリストを切り替えておくと、STOMP・RIG・HYBRID各モードでのRig移動が、セットリストのなかにあるRigだけになる。  
+セットリストごとに、その設定ファイルが入っている。
+「セットリスト」とは、いくつかのRigを好みの順に並べてグループ化したもののこと。  
+セットリストは、画面左肩で選択できる。  
+標準では、セットリスト選択が「ALL RIGS」（270個全部）になっている。  
+使いたいRigだけでセットリストを作って、最初にそのセットリストを選択してから使うと、無駄なRig移動をせずに済むようになる。
+なお、セットリストは、STOMP・RIG・HYBRIDのどのモードでものRig移動が、セットリストのなかにあるRigだけになる。  
 セットリストに入っていないRigは、スキップされるので、「その時使うRigを使う順に並べたセットリスト」を作って、それに切り替えておけばよい。  
-### 2-4. Impulse Responses
+### 2-4. Impulse Responsesフォルダ
 WAVフォーマットのIRファイルに対応。  
 最大192kHz、32bit、2,048サンプルまで。  
 IRファイルは一般にデータサイズが小さいので、数千個でも保存できる。  
@@ -51,10 +54,10 @@ IRファイルの保存場所は、ディスクのなかの「ImpulseResponses�
 - HiCut:16～18kHz以上をカット。
 - LoCut:80～100Hz以下をカット。
 - Mix:  
-### 2-4. Loops
+### 2-5. Loopsフォルダ
 初期状態では、何も入っていない。  
 ルーパーで録音したら、音声ファイルが入る模様。  
-### 2-5. 「LockScreenLogo.png」（800x400）
+### 2-6. 「LockScreenLogo.png」（800x400）
 Rigを開いている時に、MODELS表示ではなく、LockScreen表示にできる。  
 その時にモニターに表示される画像。  
 800x400に調節して表示される。  
