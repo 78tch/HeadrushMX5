@@ -69,9 +69,9 @@ Rigを開いている時に、MODELS表示ではなく、LockScreenLogo表示に
 シャットダウン時のモードが記憶され、次回起動時にもそのモードで起動する。  
 |No|Mode|FS1|FS2|FS3|FS1Hold|FS2Hold|FS3Hold|FS1FS2|FS2FS3|
 |--|--|--|--|--|--|--|--|--|--|
-|1|Stomp|On/Off|On/Off|On/Off|切替画面|Looper|Tuner|↑|↓|  
-|2|Rig|Rig1|Rig2|Rig3|切替画面|Looper|Tuner|↑|↓|  
-|3|Hybrid|On/Off|↑|↓|切替画面|Looper|Tuner|↑|↓|  
+|1|Stomp|On/Off|On/Off|On/Off|切替画面|Looper|Tuner|↓|↑|  
+|2|Rig|Rig1|Rig2|Rig3|切替画面|Looper|Tuner|↓|↑|  
+|3|Hybrid|On/Off|↓|↑|切替画面|Looper|Tuner|↓|↑|  
   
 ### 3-2. 「モード切替画面」における画面遷移  
 いずれのモードにおいても、FS1Holdで「モード切替画面」となる。  
@@ -82,7 +82,7 @@ Rigを開いている時に、MODELS表示ではなく、LockScreenLogo表示に
 |2|FS2|Rigモード|各FSでRigを呼び出す、1と2で↓、2と3で↑のバンク移動||
 |3|FS3|Hybridモード|FS1でMODELをON/OFFやシーンを切り替え、2で↑、3で↓のRig移動||
 |4|FS1Hold|HANDS-FREEモード|FSとPEDALでRigの設定変更||
-|5|FS2Hold|Setlistモード|タッチパネルを使わずFSでセットリストを切り替える。1で選択、2で↑、3で↓のSetlist移動、1HoldでAll Rigs||
+|5|FS2Hold|Setlistモード|タッチパネルを使わずFSでセットリストを切り替える。1で選択、2で↓、3で↑のSetlist移動、1HoldでAll Rigs||
 |6|FS3Hold|(UN)LOCK|MODELS画面がLOGO画面になり、タッチパネルでエディットできなくなる。ロックアイコンをタップで解除。|
   
 ## 4. 設定
