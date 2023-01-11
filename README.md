@@ -27,8 +27,9 @@ MX5をPCに接続すると、ディスクのなかに５つのフォルダと１
 キャビネットは、さらに「CAB」サブフォルダのなかに入っている。  
 その他のMODELSは、「Blocks」フォルダ直下に入っている。  
 （マイクはどういう形で入っているか不明）  
-※IRも含めた、各モデルとベースになった実機の一覧を表にした人がいる。
+※IRも含めた、各モデルとベースになった実機の一覧を表にした人がいる。  
 https://www.talkbass.com/attachments/headrush-models-pdf.3653726/
+  
 ### 2-2. Rigsフォルダ
 [Rigs 一覧](https://github.com/78tch/HeadrushMX5/blob/master/Rigs.md)  
 MX5のRigは、いわゆるプリセットのこと。  
