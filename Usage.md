@@ -10,11 +10,15 @@
 設定例）  
 |No.|Maker|Amp|Based on|IR|Cab|
 |---|---|---|---|---|---|
-|1|Fender||Twin Reverb|||
-|2|Marshall||JCM800|||
-|3|VOX||AC-30TopBoost|||
-|4|Roland||JC-120|||
+|1|Fender|67 BLACK DUO|Twin Reverb "Blackface"|||
+|2|Marshall|LEAD 800 100W|JCM800|||
+|3|VOX|66 AC Hi BOOST|AC30 Top Boost |||
+|4|Roland|84 J-120H|JC-120|||
+|5|Matchless|93 MS30|DC30|||
+|6|Orange|Tangerine 30 Channel 1|AD30HTC Clean Channel|||
+|7|Soldano|89 SL-100 CRUNCH|SLO-100 (Crunch)|||
 
+  
 ### Training
 バッキングトラックのmp3ファイルを、「Looper」フォルダに入れる。Looperでファイルを読み込み、鳴らしながら練習する。  
 MX5にはメトロノームやドラムマシン機能はないが、「メトロノーム音の音声ファイル」などを取り込んで置くことで、鳴らしながら演奏できる。
