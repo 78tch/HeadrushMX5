@@ -11,7 +11,7 @@
 7. 
   
 アンプ・IR組み合わせ設定例）  
-|No.|Maker|Amp|Based on|IR|Cab|
+|No.|Maker|Amp|Amp Based on|IR|Cab Based on|
 |---|---|---|---|---|---|
 |1|Fender|67 BLACK DUO|Twin Reverb "Blackface"|TWIN2120B|Twin Reverb Open Back|
 |2|Marshall|LEAD 800 100W|JCM800|60S412V|1960AV|
