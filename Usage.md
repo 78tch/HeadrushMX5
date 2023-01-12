@@ -10,12 +10,12 @@
 設定例）  
 |No.|Maker|Amp|Based on|IR|Cab|
 |---|---|---|---|---|---|
-|1|Fender|67 BLACK DUO|Twin Reverb "Blackface"|||
-|2|Marshall|LEAD 800 100W|JCM800|||
-|3|VOX|66 AC Hi BOOST|AC30 Top Boost |||
+|1|Fender|67 BLACK DUO|Twin Reverb "Blackface"|TWIN2120B|Twin Reverb Open Back|
+|2|Marshall|LEAD 800 100W|JCM800|60S412V|1960AV|
+|3|VOX|66 AC Hi BOOST|AC30 Top Boost|FAWN212|AC30|
 |4|Roland|84 J-120H|JC-120|||
 |5|Matchless|93 MS30|DC30|||
-|6|Orange|Tangerine 30 Channel 1|AD30HTC Clean Channel|||
+|6|Orange|Tangerine 30 Channel 1|AD30HTC Clean Channel|TANGERINE2120B|PPC212 Open Back|
 |7|Soldano|89 SL-100 CRUNCH|SLO-100 (Crunch)|||
 
   
