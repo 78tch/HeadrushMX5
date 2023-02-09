@@ -10,7 +10,7 @@
 6. 作ったユーザープリセットを、スタジオなどで大音量で鳴らし、微調整する。
 7. 他のアンプモデルも、同様の流れで試す。「Matchless® DC30」とか「Peavey® 5150 II」とか。 
   
-アンプ・IR組み合わせ設定例）  
+### アンプ・IR組み合わせ設定例）  
 |No.|Maker|Amp|Amp Based on|IR|Cab Based on|
 |---|---|---|---|---|---|
 |1|Fender|67 BLACK DUO|Twin Reverb "Blackface"|TWIN2120B|Twin Reverb Open Back|
@@ -21,7 +21,16 @@
 |6|Orange|Tangerine 30 Channel 1|AD30HTC Clean Channel|TANGERINE2120B|PPC212 Open Back|
 |7|Soldano|89 SL-100 CRUNCH|SLO-100 (Crunch)|||
 
-  
+### 各アンプ設定項目・設定値
+
+|No.|parameters|Default|Values|Memo|
+|---|---|---|---|---|
+|1|Fender||||
+|2|67 BLACK DUO||||
+|3|Twin Reverb "Blackface"||||
+|4|||||
+
+
 ### Training
 バッキングトラックのmp3ファイルを、「Looper」フォルダに入れる。Looperでファイルを読み込み、鳴らしながら練習する。  
 MX5にはメトロノームやドラムマシン機能はないが、「メトロノーム音の音声ファイル」などを取り込んで置くことで、鳴らしながら演奏できる。
