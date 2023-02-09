@@ -33,8 +33,8 @@
 |6|VIBRATO|OFF|||
 |7|MIDDLE|50%|||
 |8|BASS|50%|||
-|9|SPEED|7.00Hz||トレモロの揺れの周期|
-|10|INTENSITY|50%||トレモロの揺れの大きさ|
+|9|SPEED|7.00Hz||トレモロ（ビブラート？）の周期|
+|10|INTENSITY|50%||トレモロの大きさ|
 |11|SYNC|OFF|||
 
 |No.2|parameters|Default|Values|Memo|
@@ -72,8 +72,8 @@
 |7|TREBLE|50%|||
 |8|CUT|0%|||
 |9|BASS||||
-|10|SPEED|7.00Hz|||
-|11|DEPTH|50%|||
+|10|SPEED|7.00Hz|||トレモロの周期
+|11|DEPTH|50%||トレモロの深さ|
 |12|SYNC|OFF|||
   
 |No.|parameters|Default|Values|Memo|
