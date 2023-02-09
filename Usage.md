@@ -76,37 +76,33 @@
 |11|DEPTH|50%||トレモロの深さ|
 |12|SYNC|OFF|||
   
-|No.|parameters|Default|Values|Memo|
+|No.5|parameters|Default|Values|Memo|
 |---|---|---|---|---|
-|1|Marshall||||
-|2|69 PLEXIGLAS 100W||||
-|3|PLEXI||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
-|13|||||
+|1|Matchless||||
+|2|93 MS-30||||
+|3|DC30||||
+|4|VOLUME|50%|||
+|5|MAST VOL|50%|||
+|6|TREBLE|50%|||
+|7|CUT|0%|||
+|8|BASS|50%|||
   
-|No.|parameters|Default|Values|Memo|
+|No.6|parameters|Default|Values|Memo|
 |---|---|---|---|---|
-|1|Marshall||||
-|2|69 PLEXIGLAS 100W||||
-|3|PLEXI||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
-|13|||||
+|1|Roland||||
+|2|84 J-120H||||
+|3|JC120||||
+|4|DIST|50%|||
+|5|VOLUME|100%|||
+|6|HI-TREBLE|50%|||
+|7|TREBLE|50%|||
+|8|MID|50%|||
+|9|BASS|50%|||
+|10|REVERB|50%|||
+|11|CHORUS|MANUAL|||
+|12|RATE|50%|||
+|13|DEPTH|50%|||
+|14|STEREO|ON|||
 
 ### Training
 バッキングトラックのmp3ファイルを、「Looper」フォルダに入れる。Looperでファイルを読み込み、鳴らしながら練習する。  
