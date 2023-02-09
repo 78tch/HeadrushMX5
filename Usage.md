@@ -33,8 +33,8 @@
 |6|VIBRATO|OFF|||
 |7|MIDDLE|50%|||
 |8|BASS|50%|||
-|9|SPEED|7.00Hz|||
-|10|INTENSITY|50%|||
+|9|SPEED|7.00Hz||トレモロの揺れの周期|
+|10|INTENSITY|50%||トレモロの揺れの大きさ|
 |11|SYNC|OFF|||
 
 |No.|parameters|Default|Values|Memo|
