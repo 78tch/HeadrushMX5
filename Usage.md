@@ -23,7 +23,7 @@
 
 ### 各アンプ設定項目・設定値
 
-|No.|parameters|Default|Values|Memo|
+|No.1|parameters|Default|Values|Memo|
 |---|---|---|---|---|
 |1|Fender||||
 |2|67 BLACK DUO||||
@@ -37,7 +37,7 @@
 |10|INTENSITY|50%||トレモロの揺れの大きさ|
 |11|SYNC|OFF|||
 
-|No.|parameters|Default|Values|Memo|
+|No.2|parameters|Default|Values|Memo|
 |---|---|---|---|---|
 |1|Marshall||||
 |2|69 PLEXIGLAS 100W||||
@@ -49,7 +49,7 @@
 |8|MIDDLE|50%|||
 |9|BASS|50%|||
   
-|No.|parameters|Default|Values|Memo|
+|No.3|parameters|Default|Values|Memo|
 |---|---|---|---|---|
 |1|Marshall||||
 |2|82 LEAD 800 100W||||
@@ -61,21 +61,20 @@
 |8|MIDDLE|50%|||
 |9|TREBLE|50%|||
   
-|No.|parameters|Default|Values|Memo|
+|No.4|parameters|Default|Values|Memo|
 |---|---|---|---|---|
-|1|Marshall||||
-|2|69 PLEXIGLAS 100W||||
-|3|PLEXI||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
-|13|||||
+|1|VOX||||
+|2|66 AC HI BOOST||||
+|3|AC30 TB||||
+|4|NORM VOL|50%|||
+|5|BRILL VOL|50%|||
+|6|TREMOLO|OFF|||
+|7|TREBLE|50%|||
+|8|CUT|0%|||
+|9|BASS||||
+|10|SPEED|7.00Hz|||
+|11|DEPTH|50%|||
+|12|SYNC|OFF|||
   
 |No.|parameters|Default|Values|Memo|
 |---|---|---|---|---|
