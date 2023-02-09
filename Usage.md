@@ -37,7 +37,22 @@
 |10|INTENSITY|50%|||
 |11|SYNC|OFF|||
 
-
+|No.|parameters|Default|Values|Memo|
+|---|---|---|---|---|
+|1|Marshall||||
+|2|69 PLEXIGLAS 100W||||
+|3|Super Lead Plexi 100W||||
+|4|||||
+|5|||||
+|6|||||
+|7|||||
+|8|||||
+|9|||||
+|10|||||
+|11|||||
+|12|||||
+|13|||||
+  
 |No.|parameters|Default|Values|Memo|
 |---|---|---|---|---|
 |1|Marshall||||
