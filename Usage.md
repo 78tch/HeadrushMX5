@@ -33,8 +33,8 @@
 |6|VIBRATO|OFF|||
 |7|MIDDLE|50%|||
 |8|BASS|50%|||
-|9|SPEED|7.00Hz||トレモロ（ビブラート？）の周期|
-|10|INTENSITY|50%||トレモロの大きさ|
+|9|SPEED|7.00Hz||ビブラートの周期|
+|10|INTENSITY|50%||ビブラートの大きさ|
 |11|SYNC|OFF|||
 
 |No.2|parameters|Default|Values|Memo|
