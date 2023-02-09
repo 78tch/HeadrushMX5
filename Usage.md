@@ -29,7 +29,7 @@
 |2|67 BLACK DUO||||
 |3|Twin Reverb "Blackface"||||
 |4|VOLUME|50%|||
-|5|BRIGHT|ON|||
+|5|BRIGHT|ON||高域を強調|
 |6|VIBRATO|OFF|||
 |7|MIDDLE|50%|||
 |8|BASS|50%|||
@@ -55,7 +55,7 @@
 |2|82 LEAD 800 100W||||
 |3|JCM800||||
 |4|MAST VOL|50%|||
-|5|PRE AMP|50%|||
+|5|PRE AMP|50%||プリを8マスターを7、両方フル|
 |6|PRESENCE|50%|||
 |7|BASS|50%|||
 |8|MIDDLE|50%|||
