@@ -93,16 +93,16 @@
 |1|Roland||||
 |2|84 J-120H||||
 |3|JC120||||
-|4|DIST|50%|||
-|5|VOLUME|100%|||
+|4|DIST|0%|||
+|5|VOLUME|50%|||
 |6|HI-TREBLE|50%|||
 |7|TREBLE|50%|||
 |8|MID|50%|||
 |9|BASS|50%|||
-|10|REVERB|50%|||
+|10|REVERB|65%|||
 |11|CHORUS|MANUAL|||
-|12|RATE|50%|||
-|13|DEPTH|50%|||
+|12|RATE|20%|||
+|13|DEPTH|30%|||
 |14|STEREO|ON|||
 
 ### Training
