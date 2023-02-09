@@ -31,11 +31,12 @@
 |4|VOLUME|50%|||
 |5|BRIGHT|ON||高域を強調|
 |6|VIBRATO|OFF|||
-|7|MIDDLE|50%|||
-|8|BASS|50%|||
-|9|SPEED|7.00Hz||ビブラートの周期|
-|10|INTENSITY|50%||ビブラートの大きさ|
-|11|SYNC|OFF|||
+|7|TREBLE|50%|||
+|8|MIDDLE|50%|||
+|9|BASS|50%|||
+|10|SPEED|7.00Hz||ビブラートの周期|
+|11|INTENSITY|85%||ビブラートの大きさ|
+|12|SYNC|OFF|||
 
 |No.2|parameters|Default|Values|Memo|
 |---|---|---|---|---|
