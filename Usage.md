@@ -71,9 +71,9 @@
 |6|TREMOLO|OFF|||
 |7|TREBLE|50%|||
 |8|CUT|0%||高音を削ぐ|
-|9|BASS||||
+|9|BASS|50%|||
 |10|SPEED|7.00Hz||トレモロの周期|
-|11|DEPTH|50%||トレモロの深さ|
+|11|DEPTH|85%||トレモロの深さ|
 |12|SYNC|OFF|||
   
 |No.5|parameters|Default|Values|Memo|
