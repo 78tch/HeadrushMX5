@@ -28,7 +28,14 @@
 |1|Fender||||
 |2|67 BLACK DUO||||
 |3|Twin Reverb "Blackface"||||
-|4|||||
+|4|VOLUME|50%|||
+|5|BRIGHT|ON|||
+|6|VIBRATO|OFF|||
+|7|MIDDLE|50%|||
+|8|BASS|50%|||
+|9|SPEED|7.00Hz|||
+|10|INTENSITY|50%|||
+|11|SYNC|OFF|||
 
 
 ### Training
