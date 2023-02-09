@@ -42,16 +42,12 @@
 |1|Marshall||||
 |2|69 PLEXIGLAS 100W||||
 |3|Super Lead Plexi 100W||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
-|13|||||
+|4|NORM VOL|50%|||
+|5|HIGH VOL|50%|||
+|6|PRESENCE|50%|||
+|7|TREBLE|50%|||
+|8|MIDDLE|50%|||
+|9|BASS|50%|||
   
 |No.|parameters|Default|Values|Memo|
 |---|---|---|---|---|
