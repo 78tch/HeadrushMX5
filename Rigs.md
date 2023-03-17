@@ -1,5 +1,5 @@
 # HeadrushMX5
-## Rigs
+## Preset Rigs
 |No.|Rig Name|etc|
 |---|---|---|
 |1|001 HOW DOES IT FEEL||
