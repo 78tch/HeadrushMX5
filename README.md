@@ -1,6 +1,6 @@
 # Headrush MX5
 ## 1.Quick Start
-### 1-1.MX5を始めて使う
+### 1-1.MX5を初めて使う
 1. 起動すると、Rig「001 HOW DOES IT FEEL」が立ち上がる。Rigとは、いわゆる「プリセット・パッチ」のことである。
 2. 初期状態で、プリセットRigは「270 +WDW-HARMONY」まで、全部で270個ある。
 3. Rigの切り替えは、FootSwitch（以下FS）か、タッチパネルでRig名を下スワイプやタップする。
